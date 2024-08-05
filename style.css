@@ -1,0 +1,16 @@
+body
+{
+    background-color: black;
+}
+
+.container-own
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+footer
+{
+    background-color: white;
+}
